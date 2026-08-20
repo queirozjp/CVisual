@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-### ᯓ★Sobre
+### Sobre
 ?????
 
 ---
-### 𝜗ৎ Projeto:
+### Projeto:
 ??
