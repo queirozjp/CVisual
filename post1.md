@@ -20,7 +20,7 @@ design gráfico, então passei a pensar que aprenderíamos como o sistema operac
 relacionado a interfaces gráficas (GUIs).
 
 <p align="center">
-  <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/77f5bed8-8945-4604-b6de-f4f68719ec4f" />
+  <img width="448" height="280" alt="image" src="https://github.com/user-attachments/assets/77f5bed8-8945-4604-b6de-f4f68719ec4f" />
 </p>
 
 Após pesquisar sobre a matéria, e ter algumas aulas, percebi que a matéria tem um escopo mais geral e não vai focar em algo tão específico 
